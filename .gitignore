@@ -8,3 +8,117 @@ htmlPettyPrint/htmlPrettyPrint\.v11\.suo
 htmlPettyPrint/htmlPrettyPrint\.sln
 
 htmlPettyPrint/htmlPrettyPrint\.sdf
+
+log-parser-mysql-client/parser/archives/logfile-msql-parser\.zip
+
+SAWND/ipch/sawnd-a4bfabf7/sawnd-aee0d6a9\.ipch
+
+SAWND/ipch/sawnd-906d756b/sawnd-aee0d6a9\.ipch
+
+*.diagram
+
+*.map
+
+log-parser-mysql-client/parser/diagrams/diagrams\.prj
+
+*.out
+
+log-parser-mysql-client/parser/archives/logfile-msql-parser/logfile-msql-parser/g\+\+help\.txt
+
+*.md5
+
+*.session
+
+log-parser-mysql-client/parser/diagrams/generation_settings
+
+log-parser-mysql-client/parser/diagrams/idl_includes
+
+log-parser-mysql-client/parser/diagrams/java_imports
+
+log-parser-mysql-client/parser/diagrams/python_imports
+
+log-parser-mysql-client/parser/diagrams/
+
+log-parser-mysql-client/parser/doc/autoGen/html/
+
+log-parser-mysql-client/parser/doc/autoGen/
+
+log-parser-mysql-client/parser/doc/
+
+log-parser-mysql-client/parser/src/parser\.hpp\.gch
+
+old code to mess with a buddy/ZachVirus\.exe
+
+old code to mess with a buddy/ZachVirus/Debug/ZachVirus\.exe
+
+old code to mess with a buddy/ZachVirus/Debug/ZachVirus\.ilk
+
+old code to mess with a buddy/ZachVirus/Debug/ZachVirus\.pdb
+
+old code to mess with a buddy/ZachVirus/Release/ZachVirus\.exe
+
+old code to mess with a buddy/ZachVirus/Release/ZachVirus\.pdb
+
+old code to mess with a buddy/ZachVirus/ZachVirus\.opensdf
+
+old code to mess with a buddy/ZachVirus/ZachVirus\.sdf
+
+old code to mess with a buddy/ZachVirus/ZachVirus\.sln
+
+old code to mess with a buddy/ZachVirus/ZachVirus\.v11\.suo
+
+old code to mess with a buddy/ZachVirus/ZachVirus/Debug/
+
+old code to mess with a buddy/ZachVirus/ZachVirus/Release/
+
+old code to mess with a buddy/ZachVirus/ZachVirus/ZachVirus\.vcxproj
+
+old code to mess with a buddy/ZachVirus/ZachVirus/ZachVirus\.vcxproj\.filters
+
+old code to mess with a buddy/ZachVirus/ZachVirus/ZachVirus\.vcxproj\.user
+
+pulse/doc/autogen/html/
+
+pulse/doc/autogen/
+
+pulse/doc/man/
+
+pulse/doc/
+
+pulse/src/client/client
+
+pulse/src/client/server
+
+pulse/src/client/testing
+
+SAWND/Debug/
+
+pulse/src/examples/sock_int example/client
+
+pulse/src/examples/sock_int example/main
+
+pulse/src/main
+
+SAWND/doc/
+
+SAWND/etc/Microsoft Virtual Audio Device Driver Sample/C\+\+/ac3/
+
+SAWND/etc/Microsoft Virtual Audio Device Driver Sample/C\+\+/
+
+SAWND/etc/Microsoft Virtual Audio Device Driver Sample/
+
+SAWND/SAWND\.sdf
+
+SAWND/SAWND\.sln
+
+SAWND/SAWND\.v11\.suo
+
+SAWND/SAWND/Debug/
+
+SAWND/SAWND/SAWND\.vcxproj
+
+SAWND/SAWND/SAWND\.vcxproj\.filters
+
+website/web/weblogs/
+
+website/web/webpriv/configs/

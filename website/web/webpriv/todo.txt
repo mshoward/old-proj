@@ -1,0 +1,2 @@
+1) read twitter bootstrap again
+2) write a workable php framework for it
